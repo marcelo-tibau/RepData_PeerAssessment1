@@ -2,7 +2,7 @@
 title: "PA1_template.Rmd"
 author: "Marcelo Tibau"
 date: "28 de julho de 2016"
-output: html_document
+output: md_document
 ---
 
 # Reproducible Research: Peer Assessment 1  
